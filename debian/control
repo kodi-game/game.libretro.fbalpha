@@ -1,17 +1,17 @@
-Source: kodi-game-libretro-fbneo
+Source: kodi-game-libretro-fbalpha
 Priority: extra
 Maintainer: wsnipex <wsnipex@a1.net>
 Build-Depends: debhelper (>= 9.0.0),
                cmake,
                kodi-addon-dev,
-               libretro-fbneo (>= 1.0.0) | fbneo (>= 1.0.0)
+               libretro-fbalpha (>= 0.2.97) | fbalpha (>= 0.2.97)
 Standards-Version: 3.9.8
 Section: libs
 
-Package: kodi-game-libretro-fbneo
+Package: kodi-game-libretro-fbalpha
 Section: libs
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, kodi, kodi-game-libretro
 Enhances: kodi
-Description: Arcade (FinalBurn Neo) core for kodi's retroplayer
- Arcade (FinalBurn Neo) core for kodi's retroplayer
+Description: Arcade (FB Alpha) core for kodi's retroplayer
+ Arcade (FB Alpha) core for kodi's retroplayer

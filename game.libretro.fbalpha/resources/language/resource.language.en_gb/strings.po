@@ -1,10 +1,10 @@
-# game.libretro.fbneo language file
-# Addon Name: game.libretro.fbneo
-# Addon id: game.libretro.fbneo
+# game.libretro.fbalpha language file
+# Addon Name: game.libretro.fbalpha
+# Addon id: game.libretro.fbalpha
 # Addon Provider: libretro
 msgid ""
 msgstr ""
-"Project-Id-Version: game.libretro.fbneo\n"
+"Project-Id-Version: game.libretro.fbalpha\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2021-08-26 21:25i\n"
 "PO-Revision-Date: 2021-08-26 21:25i\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "Addon Summary"
-msgid "Arcade (FB Alpha)"
+msgid "FB Alpha"
 msgstr ""
 
 msgctxt "Addon Description"

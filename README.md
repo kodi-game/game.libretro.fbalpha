@@ -1,18 +1,16 @@
-# Arcade (FinalBurn Neo)
+# Arcade (FB Alpha)
 
 ### Description
 
-FinalBurn Neo is a fork of FinalBurn Alpha, an emulator of arcade games.
-
-FB Neo emulation includes Capcom CPS-1 and CPS-2, SNK Neo-Geo, Toaplan, Cave and Sega System 16.
+FinalBurn Alpha is an emulator of arcade games, including Capcom CPS-1 and CPS-2, SNK Neo-Geo, Toaplan, Cave and Sega System 16.
 
 ### License
 
-Non-commercial
+Unlicensed
 
 ### Icon
 
-![Arcade (FinalBurn Neo) icon](game.libretro.fbneo/resources/icon.png)
+![Arcade (FB Alpha) icon](game.libretro.fbalpha/resources/icon.png)
 
 ### Fanart
 
