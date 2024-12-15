@@ -28,3 +28,7 @@ msgstr ""
 msgctxt "Addon Disclaimer"
 msgid "Icon credit: TRIPLEKILLZ (triplekillz.deviantart.com)"
 msgstr "Billedekredit: TRIPLEKILLZ (triplekillz.deviantart.com)"
+
+msgctxt "Addon Lifecyclestate"
+msgid "This add-on has been discontinued. Use FBNeo."
+msgstr ""

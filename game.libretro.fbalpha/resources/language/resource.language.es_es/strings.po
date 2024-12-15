@@ -28,3 +28,7 @@ msgstr "FinalBurn Alpha es un emulador de juegos arcade, incluyendo Capcom CPS-1
 msgctxt "Addon Disclaimer"
 msgid "Icon credit: TRIPLEKILLZ (triplekillz.deviantart.com)"
 msgstr "Crédito del icono: TRIPLEKILLZ (triplekillz.deviantart.com)"
+
+msgctxt "Addon Lifecyclestate"
+msgid "This add-on has been discontinued. Use FBNeo."
+msgstr ""
