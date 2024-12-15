@@ -4,6 +4,8 @@
 
 FinalBurn Alpha is an emulator of arcade games, including Capcom CPS-1 and CPS-2, SNK Neo-Geo, Toaplan, Cave and Sega System 16.
 
+This add-on has been discontinued. Use FBNeo.
+
 ### License
 
 Unlicensed
